@@ -5,11 +5,11 @@ Project #4 for Udacity's Data Science Nanodegree Program
 The purpose of this project is to use customer data to help Starbucks become more profitable. The basic task is to use the data to identify which groups of people are most responsive to each type of offer, and how best to present each type of offer.
 
 ## Libraries and Installation
--import pandas as pd
--import numpy as np
--import math
--import json
--import matplotlib.pyplot as plt
+- import pandas as pd
+- import numpy as np
+- import math
+- import json
+- import matplotlib.pyplot as plt
 
 ## File Descriptions 
 1. README.md - read me file
